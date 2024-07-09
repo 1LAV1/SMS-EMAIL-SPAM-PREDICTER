@@ -50,7 +50,7 @@ Enhanced my ability to design intuitive and user-friendly interfaces that improv
 
 
 
-## 1> INFERFACE
+## 1> INTERFACE
 
 ![App Screenshot](https://github.com/1LAV1/SMS-EMAIL-SPAM-PREDICTER/blob/main/photoassets/textarea.png?raw=true)
 
